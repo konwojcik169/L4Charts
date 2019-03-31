@@ -1,0 +1,4 @@
+#Sun Mar 31 17:14:19 CEST 2019
+base.0=D\:\\STUDIA\\V rok\\II semestr\\SONPM\\2019.03.14\\Charts\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
